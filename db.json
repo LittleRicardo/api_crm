@@ -1,0 +1,28 @@
+{
+  "clientes": [
+    {
+      "nombre": "Ricardo",
+      "empresa": "Edx",
+      "email": "correo@corre.com",
+      "telefono": "4555488966446",
+      "notas": "Puto puto puto ",
+      "id": 3
+    },
+    {
+      "nombre": "Dulce ",
+      "empresa": "Nutriguerro",
+      "email": "dulce@dulce.es",
+      "telefono": "449526358741",
+      "notas": "Es mi perra ",
+      "id": 4
+    },
+    {
+      "nombre": "Neso",
+      "empresa": "Bbydoll",
+      "email": "sexo@sexo.es",
+      "telefono": "489941577664",
+      "notas": "Pitp pito pito",
+      "id": 5
+    }
+  ]
+}
